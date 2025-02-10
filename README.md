@@ -1,5 +1,5 @@
 
-<img src="./assets/ezgif.com-gif-maker.gif" alt="banner">
+<img src="https://image.lexica.art/full_webp/a10f6ceb-7b17-4eb6-b21e-6af39280d073" alt="banner">
  
    
 <p align="center">
