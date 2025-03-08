@@ -9,7 +9,7 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Founder & CEO of @techviochats @internee.pk 🤖
+🤵 Studying at @ZABIST 🤖
 	
 👨‍💻 AI Engineer CargoAI
 	
@@ -22,7 +22,7 @@
 <table width="100">
 <tr>
     <td align='center' width="200">
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fopenai-chatgpt-logo-icon-free-png.webp?alt=media&token=7f1e7f67-d80a-4e04-9d39-c37007c3f547" >
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" >
     </td>
 
   <td align='center' width="200">
